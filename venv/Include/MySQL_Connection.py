@@ -7,7 +7,7 @@ def con():
     try:
         # print('\n################################################## Connecting to Database')
 
-        HOST = '187.182.165.126'           # IP Host
+        HOST = 'localhost'                 # IP Host
         PORT = '3306'                      # Port Number
         USER = 'Admin'                     # Database User
         PASSWORD = 'Admin#2020'            # Database Password
